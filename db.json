@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "ExtenalSystemId": 1,
+      "FilenetId": "test",
+      "WorkflowInstanceId": 456,
+      "StatusCode": 1,
+      "StatusMessage": "ok"
+    },
+    {
+      "ExtenalSystemId": 2,
+      "FilenetId": "test2",
+      "WorkflowInstanceId": 674,
+      "StatusCode": 1,
+      "StatusMessage": "ok"
+    },
+    {
+      "ExtenalSystemId": 3,
+      "FilenetId": "test3",
+      "WorkflowInstanceId": 5454,
+      "StatusCode": -1,
+      "StatusMessage": "error"
+    },
+    null,
+    {
+      "ExtenalSystemId": 4,
+      "FilenetId": "test4",
+      "WorkflowInstanceId": 4345,
+      "StatusCode": 1,
+      "StatusMessage": "ok"
+    },
+    {
+      "ExtenalSystemId": 5,
+      "FilenetId": "test5",
+      "WorkflowInstanceId": 5645,
+      "StatusCode": 1,
+      "StatusMessage": "ok"
+    }
+  ]
+}
